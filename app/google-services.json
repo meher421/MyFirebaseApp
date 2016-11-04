@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "851630719994",
+    "firebase_url": "https://myfirebaseapp-fecd8.firebaseio.com",
+    "project_id": "myfirebaseapp-fecd8",
+    "storage_bucket": "myfirebaseapp-fecd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851630719994:android:096d9ba5873eae2a",
+        "android_client_info": {
+          "package_name": "com.sam.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851630719994-jrnqndu05jkt4h1n8krjgetmtnjq75d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuXBbmUIaXAm6RR_oWmQ8051kG4bHMTJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
